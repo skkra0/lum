@@ -1,3 +1,3 @@
 # pkmn-bw-script-tools
-Commands for reading and modifying script files from Pokemon Black/White ROMS\
-Rewriting in C++
+Tools for reading and modifying script files from Pokemon Black/White ROMS.\
+Now rewriting in C++
