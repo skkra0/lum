@@ -1,5 +1,5 @@
 # pkmn-bw-script-tools
-Original C code. Don't use this. \
+Original C code. Use the C++ version. \
 ``printscript``: reads a script file(a/0/5/7) and outputs the known commands.\
 usage: ``printscript filename``
 
